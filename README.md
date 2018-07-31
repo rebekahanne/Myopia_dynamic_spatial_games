@@ -14,5 +14,5 @@ The script ```Create_Oldenburg_Figures.m``` creates the figures of Oldenburg's t
 The file ```Greedy_Adjustment.m```. uses a myopic (greedy) heuristic, as in Kuehn and Hamburger (1963), to compute an approximately optimal allocation of drivers on Oldenburg's transportation network. The file ```Oldenburg_Approx_Optimal.mat```. contains the approximately optimal allocation of 60 drivers on Oldenburg's transportation network. 
 
 ## References
-Brinkhoff, T. (2002). A framework for generating network-based moving objects. GeoInformatica, 6(2):153–180.
-Kuehn, A. A. and Hamburger, M. J. (1963). A heuristic program for locating warehouses. Management science, 9(4):643–666
+* Brinkhoff, T. (2002). A framework for generating network-based moving objects. GeoInformatica, 6(2):153–180.
+* Kuehn, A. A. and Hamburger, M. J. (1963). A heuristic program for locating warehouses. Management science, 9(4):643–666
