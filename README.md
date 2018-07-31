@@ -1,5 +1,5 @@
 # Code Appendix
-This appendix describes the code used in in the Applications section of "Myopia in dynamic spatial games" by Shane Auerbach and Rebekah Dix.
+This appendix describes the code used in in the Applications section of ["Myopia in dynamic spatial games"](https://drive.google.com/file/d/1HlA9ZUYV35VE9Zcm1NtbEbxDBxtZf92j/view) by Shane Auerbach and Rebekah Dix.
 
 ## Constructing Oldenburg
 The script ```Construct_Oldenburg.m``` uses ```OLedges.txt``` and ```OLnodes.txt``` to create an undirected graph that represents the transportation network of Oldenburg, Germany using data from Brinkhoﬀ (2002). The file ```OL.mat``` contains the output of ```Construct_Oldenburg.m```.
