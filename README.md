@@ -16,7 +16,9 @@ The file ```Greedy_Adjustment.m```. uses a myopic (greedy) heuristic, as in Kueh
 
 # Experiment Code
 
-The computer game was developed in Matlab and uses the [GUI Layout Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) (version 2.3.4), which is available through the Matlab File Exchange.
+The computer game was developed in Matlab and uses the [GUI Layout Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) (version 2.3.4), which is available through the Matlab File Exchange. This toolbox needs to be installed before running either the calculator or main console software. The game also uses [export_fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig), which is available in the Experiment folder.
+
+To run the calculator, run ```calculator.m``` in ```Experiment/Calculator```.  To run the main console, run ```main.m``` in ```Experiment/Main Console```.
 
 ## References
 * Brinkhoff, T. (2002). A framework for generating network-based moving objects. GeoInformatica, 6(2):153–180.
