@@ -1,5 +1,5 @@
 # Code Appendix and Simulation Toolkit
-This appendix describes the code used in in the Applications section of ["Myopia in dynamic spatial games"](https://drive.google.com/file/d/1HlA9ZUYV35VE9Zcm1NtbEbxDBxtZf92j/view) by Shane Auerbach and Rebekah Dix.
+This appendix describes the code used in in the Applications section of ["Myopia in dynamic spatial games"](https://rebekahanne.github.io/downloads/MyopiaInDynamicSpatialGames.pdf) by Shane Auerbach and Rebekah Dix.
 
 # Applications
 ## Constructing Oldenburg
